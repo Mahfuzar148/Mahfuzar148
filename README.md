@@ -1,5 +1,5 @@
-### Hi there 👋, Hi! I am Mahfuzar Rahman
-#### I am Programmer and Web Developer
+## Hi there 👋, Hi! I am Mahfuzar Rahman
+### I am Programmer and Web Developer
 ![I am Programmer and Web Developer](https://avatars.githubusercontent.com/u/113121842?v=4)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
