@@ -1,22 +1,3 @@
-<section class="flower-body">
-<section class="flower">
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<span class="petal"></span>
-<h1>CSS Animation</h1>
-</section>
-</section>
-
-
 
 ## Hi there 👋, Hi! I am Mahfuzar Rahman
 ### I am Programmer and Web Developer
